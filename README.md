@@ -1,5 +1,4 @@
- Automated AWS Polly Narrator:
- 
+
 An event-driven, serverless pipeline that automatically converts text files into high-quality MP3 audio using Amazon Polly, AWS Lambda, and Amazon S3.
 
 Key Features
