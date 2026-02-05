@@ -11,7 +11,13 @@ Production-Grade Security: Implements a Customer Managed Policy following the Pr
 Neural TTS Engine: Utilizes Amazon Polly’s Neural engine for natural, human-like speech synthesis.
 
 🏗️ Architecture Workflow:
-https://uploads.teachablecdn.com/attachments/XjgRDlKQiCwI639iKnPA_4A.png
+<img width="1599" height="591" alt="image" src="https://github.com/user-attachments/assets/2bd11a9b-9f17-4ec9-9f08-15fe79b32b97" />
+
+
+final results:
+<img width="1488" height="500" alt="image" src="https://github.com/user-attachments/assets/9e41cea5-36ce-482e-a52e-18916d6fb29c" />
+
+
 
 process:
 Trigger: S3 sends a s3:ObjectCreated event notification to the Lambda function.
